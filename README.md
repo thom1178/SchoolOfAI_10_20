@@ -1,3 +1,3 @@
 # School Of AI Project
 
-<img src = ''/>
+<img src = 'https://raw.githubusercontent.com/thom1178/SchoolOfAI_10_20/master/img/logistic.png'/>
