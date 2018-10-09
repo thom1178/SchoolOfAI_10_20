@@ -1,1 +1,2 @@
-# SchoolOfAI_10_20
+# School Of AI Project
+
