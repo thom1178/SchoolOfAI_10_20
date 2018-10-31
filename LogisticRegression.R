@@ -1,6 +1,6 @@
 library(ggplot2)
 library(magrittr)
-library(ROCR)
+#library(ROCR)
 
 
 avocado <- read.csv(file.choose(), header = T)
